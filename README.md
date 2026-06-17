@@ -2,7 +2,7 @@
 
 Uma API REST desenvolvida em **Java** com **Spring Boot** para o gerenciamento de cursos, instrutores e matrículas. Este projeto serve como um excelente ponto de partida para sistemas educacionais ou plataformas de cursos online.
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Java 21**
 - **Spring Boot**
